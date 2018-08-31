@@ -18,7 +18,17 @@ body {
 
 .jumbotron-container {
 	position: relative;
-     margin-top: 50px;
+     margin-top: 20px;
      margin-bottom: 20px;
      padding: 20px;
 }
+
+#profile-pic {
+    width: 200px;
+}
+
+.img-thumbnail {
+    width: 200px;
+}
+
+
